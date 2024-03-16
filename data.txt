@@ -1,2 +1,2 @@
 sample data
-issue AB5
+issu AB5
